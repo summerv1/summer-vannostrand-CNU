@@ -2,4 +2,6 @@
 
 Project: _Out of The Desert_ 
 
-Project Directors:
+Project Directors: Yale University
+
+Project URL: https://outofthedesert.yale.edu/
