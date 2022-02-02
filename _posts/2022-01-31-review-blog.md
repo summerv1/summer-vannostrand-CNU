@@ -22,4 +22,5 @@ The interactive map in the beginning along with touch screen tours through pictu
 
 
 When the site is first open, there is an image of the map prompting you to click on the screen to learn more. There are two ways you can do this, either exploring the map first or exploring the paragraph at the bottom of the screen. I chose the map first, because it caught my attention more than the paragraph. I clicked on the houses to learn more about the internment camps and that’s where I started to get confused. Some houses only showed me information about what exactly the assembly centers were while others explained more about that specific center. After messing around with the site, I realized that the houses that appeared smaller would show me more information about the assembly centers while the larger ones told you about what was in that specific area. It was an easy thing to figure out, but initially it confused me. 
-![Small Houses with Information on Assembly Centers](https://summerv1.github.io/summerv/images/smallhouse.jpg)
+![Small Houses with Information on Assembly Centers](https://summerv1.github.io/summerv/images/smallhouse.jpg) ![Large Houses with Information on Internment Camps](https://summerv1.github.io/summerv/images/bighouse.jpg)
+
