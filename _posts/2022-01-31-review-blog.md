@@ -10,6 +10,10 @@ Project URL: [https://outofthedesert.yale.edu/](https://outofthedesert.yale.edu/
 
 ### **_Summary_**
 
-_Out of The Desert_ (OOTD) is an in depth study of President Roosevelt’s Executive Order 9066. After Pearl Harbor, President Roosevelt signed this executive order that allowed most of the west coast to act under military rule. The order was to create military areas that were allowed to exclude anyone under national defense. Although this wasn’t an outright statement in the order, it allowed for the mass incarceration of Japanese and Japanese Americans as orders were sent out to designate coastal areas of California, Oregon and Washington exclusion areas and internment camps were created. OOTD gives an in depth explanation of why these camps were created and what they did, along with how harmful they truly were. 
+_Out of The Desert_ (OOTD) is a study of President Roosevelt’s Executive order 9066 following Pearl Harbor. Orders were sent out to designate coastal areas of California, Oregon and Washington exclusion areas and internment camps were created. OOTD gives an in-depth explanation of why these camps were created and how they consequently led to the mass incarceration of Japanese and Japanese Americans. 
 
 ### **_Design_**
+
+The design uses a standard HTML5 and CSS3, creating cross-browser compatibility. The _Out of the Desert_ project was initially used on a 40-inch touchscreen between January 2015 and February 2016, but for more accessibility they decided to also create the online browser. They needed to utilize a software that would work on both which is why they chose the CSS, which allowed the resolutions to look the same on any device. 
+
+The interactive map in the beginning along with touch screen tours through pictures of old yearbook pages or post cards allow users who aren’t in person to be able to still get the same effects as they would at the in person display. This creates an immersive experience for the viewer without having to leave their home. 
