@@ -18,4 +18,8 @@ The design uses a standard HTML5 and CSS3, creating cross-browser compatibility.
 
 The interactive map in the beginning along with touch screen tours through pictures of old yearbook pages or post cards allow users who aren’t in person to be able to still get the same effects as they would at the in person display. This creates an immersive experience for the viewer without having to leave their home. 
 
-### **_Research_**
+### **_Review_**
+
+
+When the site is first open, there is an image of the map prompting you to click on the screen to learn more. There are two ways you can do this, either exploring the map first or exploring the paragraph at the bottom of the screen. I chose the map first, because it caught my attention more than the paragraph. I clicked on the houses to learn more about the internment camps and that’s where I started to get confused. Some houses only showed me information about what exactly the assembly centers were while others explained more about that specific center. After messing around with the site, I realized that the houses that appeared smaller would show me more information about the assembly centers while the larger ones told you about what was in that specific area. It was an easy thing to figure out, but initially it confused me. 
+![Small Houses with Information on Assembly Centers](https://summerv1.github.io/summerv/images/smallhouse.jpg)
