@@ -27,4 +27,3 @@ When the site is first open, there is an image of the map prompting you to click
 #### This is what appeared when I clicked on the larger houses
 ![Large Houses with Information on Internment Camps](https://summerv1.github.io/summerv/images/bighouse.jpg)
 
-![me and taylor swift](https://summerv1.github.io/summerv/images/taylorswift.jpg)
